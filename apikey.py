@@ -1,1 +1,2 @@
-OPENAI_API_KEY = "Your OpenAI Key"
+OPENAI_API_KEY = "Your API Key"
+SERPAPI_API_KEY = "Your API Key"
